@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AQI</string>
+    <string name="get">获得数据</string>
+    <string name="entry_city">entry city</string>
+</resources>
